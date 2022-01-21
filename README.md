@@ -15,7 +15,7 @@
 <br>
 
 - 🌱 I’m currently learning which I need to learn
-- 👯 I’m looking to collaborate on more open source project
+- 🧑‍💻 I’m looking to collaborate on more open source project
 - 💻 Most used code `print('Hello World!')`
 - 🎓 Currently I'm a student of Class 10
 
