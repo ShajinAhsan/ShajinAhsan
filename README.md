@@ -5,7 +5,7 @@
 
 
 <h4 align="center">
-  A Passionate Fronted Developer From Bangladesh.
+  A Passionate MERN Stack Developer From Bangladesh.
   <br>
   High level experience in web design and development knowledge, producing quality work.
   <br>
