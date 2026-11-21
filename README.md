@@ -1,22 +1,50 @@
-<h2 align="center"> Hi there, I am Shajin Ahsan Shuvo 👋</h2>
-
-
-![Banner](/assets/ShajinAhsan.gif)
-
-
-<h4 align="center">
-  A Passionate MERN Stack Developer From Bangladesh.
-  <br>
-  High level experience in web design and development knowledge, producing quality work.
-  <br>
-  I take great care in the experience, architecture, and code quality of the things I build.
-</h4>
+<p align="center">
+  <img src="assets/header.svg" alt="whoami: shajin / cse @ cuet" width="720">
+</p>
 
 <br>
 
-- 🌱 I’m currently learning which I need to learn
-- 🧑‍💻 I’m looking to collaborate on more open source project
-- 💻 Most used code `print('Hello World!')`
-- 🎓 Currently I'm a student of 12th grade
+## `$ whoami`
+
+First-year CSE student at CUET. I build web products, break into CTF boxes, and wire up small robots.
+<br>
+
+## `$ cat skills.txt`
+
+- **Languages** — C · C++ · JavaScript · TypeScript · Python
+- **Web** — React · Next.js · Tailwind · Node · PostgreSQL · Prisma · MongoDB
+- **Embedded** — Arduino · ESP32
+- **Tools** — Git · Vercel · Cloudflare
 
 <br>
+
+## `$ ./ctf --kali`
+
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux dragon" width="40" align="left" hspace="10">
+
+Kali Linux · Parrot OS · Nmap · web enumeration · Python scripting<br>
+Capture The Flag competitions.
+
+<br clear="all">
+
+<p align="center">
+  <img src="assets/terminal.gif" alt="Animated terminal capturing a CTF flag" width="620">
+</p>
+
+<br>
+
+## `$ ls projects/`
+
+- **ShorotApp** — e-commerce platform · Next.js, TypeScript, Prisma, PostgreSQL
+- **Face Attendance** — attendance via face embeddings · Python, SQLite
+- **Line Follower** — autonomous robot car · Arduino
+- **Wall Socket** — remote-controlled power socket · Arduino
+- **Drone** — flight stabilization, in progress · ESP32, MPU6050
+
+<br>
+
+## `$ contact`
+
+[shajin.me](https://shajin.me) · [GitHub](https://github.com/shajinahsan) · [Email](mailto:me@shajin.me)
+
+<p align="center"> <img src="assets/rain.gif" alt="Digital rain: keep building." width="720"> </p> <br>
